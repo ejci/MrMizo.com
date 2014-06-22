@@ -1,0 +1,62 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 20px;
+	font-family: 'Monda', sans-serif;
+	/* Firefox */
+    -moz-transition: all 1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 1s ease-in;
+    /* Opera */
+    -o-transition: all 1s ease-in;
+    /* Standard */
+    transition: all 1s ease-in;
+}
+
+.mrMizoLogo {
+	width: 800px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -200px 0 0 -400px;
+	text-align: center;
+}
+.message {
+	width: 800px;
+	height: 100px;
+	text-align: center;
+}
+.message p {
+	position:relative;
+	display: none;
+}
+.canvas {
+	width: 534px;
+	height: 200px;
+}
+.logo {
+	width: 534px;
+	height: 200px;
+	display: none;
+}
+.ejcinet {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+	font-size: 12px;
+}
+a:link {
+	font: 16px;
+	text-decoration: none;
+	color: #ccc;
+}
+a:visited {
+	text-decoration: none;
+	color: #ccc;
+}
+a:hover {
+	text-decoration: none;
+	color: #999;
+}
