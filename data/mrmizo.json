@@ -1,0 +1,178 @@
+{
+	"meta": {
+		"title": "Mr. Mizo - Beautiful Handmade Things!",
+		"description": "Mr. Mizo - Beautiful Handmade Things!",
+		"keywords": "Handmade, Mizo, Crochet, Hand knit, Mittens, Blankets, Socks",
+		"author": "Mr. Mizo"
+	},
+	"home": {
+		"name": "Mr.MIZO",
+		"tagline": "Unique Handmade Things!",
+		"buttons": [
+			{
+				"name": "View Products",
+				"url": "#products"
+			}, {
+				"name": "Visit Etsy shop",
+				"url": "https://www.etsy.com/uk/shop/MrMIZO"
+			}
+		]
+	},
+	"about": {
+		"heading": "Welcome to Mr. Mizo",
+    "content": ["You will find here crochet baby blankets, wool mittens, alpaca pouches and I hope many more items in the near future.", "Each item in my shop is unique and I hope I can keep it that way. They are designed and made by me in the little free time I have. I am trying to use as natural yarns as possible. If you have any question don't hesitate to convo me."],
+		"buttons": [
+			{
+				"name": "View Products",
+				"url": "#products"
+			}
+		]
+	},
+	"products": [
+		{
+			"image": "IMG_4742.JPG",
+			"name": "Yellow Daisy Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Yellow/Light Grey, 90cm X 98cm (35inch X 38.5inch), 100% cotton",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4746.JPG",
+			"name": "Fair Isle Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": " Multi - Color, 98cm X104cm (38.5inch X 41inch), 100% cotton",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4747.JPG",
+			"name": "Crochet Baby Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, 84cm X 96cm (33inch X 37.8inch), 100% cotton",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4755.JPG",
+			"name": "Striped Baby Crochet Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, 95cm X 105 cm (37.4inch X 41.3inch), 55% cotton and 45% acrylic",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4761.JPG",
+			"name": "Flowers Baby Crochet Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, 75cm X 96cm (29.5 inch X 37.8 inch), 55% cotton and 45% acrylic",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4763.JPG",
+			"name": "Granny Square Baby Crochet Blanket",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, 71cm X 91cm (27.9inch X 35.8inch), 55% cotton and 45% acrylic",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4776.JPG",
+			"name": "Hand Knit Fair Isle Women Socks",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, size 38/39, 80 % alpaca and 20 % silk",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4784.JPG",
+			"name": "Hand Knit Fair Isle Women Socks",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Multi - Color, size 38/39, 80 % alpaca and 20 % silk",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4813.JPG",
+			"name": "Scree Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Scree/Seascape, one size fits most, 80% wool and 20% mohair",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4834.JPG",
+			"name": "Orange Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Orange, one size fits most, 90% wool and 10% angora",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4849.JPG",
+			"name": "Grey Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Grey, one size fits most, 80% wool and 20% mohair",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4859.JPG",
+			"name": "Brown Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Brown, one size fits most, 90% wool and 10% angora",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4874.JPG",
+			"name": "Bilberry Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Bilberry, one size fits most, 90% wool and 20% mohair",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_4885.JPG",
+			"name": "White Hand Knit Wool Mittens",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "White/Grey, one size fits most, 100% wool",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_5029.JPG",
+			"name": "Dark Brown/Mustard Cosmetic Bag",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Dark Brown/Mustard, approx. 17cm X 18cm (6.7 inch X 7.1 inch), 100% alpaca, 100% cotton, wood buttons",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_5035.JPG",
+			"name": "Dark Purple/Pink Cosmetic Bag",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Dark Purple/Pink, approx. 17cm X 18cm (6.7 inch X 7.1 inch), 100% alpaca, 100% cotton, wood buttons",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_5038.JPG",
+			"name": "Dark Blue/Light Blue/Pink Cosmetic Bag",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Dark Blue/Light Blue/Pink, approx. 17cm X 18cm (6.7 inch X 7.1 inch), 100% alpaca, 100% cotton, wood buttons",
+			"material": "",
+			"color": "",
+			"size": ""
+		}, {
+			"image": "IMG_5041.JPG",
+			"name": "Dark Green/Neon Green Cosmetic Bag",
+			"link": "https://www.etsy.com/uk/shop/MrMIZO",
+			"desc": "Dark Green/Neon Green, approx. 17cm X 18cm (6.7 inch X 7.1 inch), 100% alpaca, 100% cotton, wood buttons",
+			"material": "",
+			"color": "",
+			"size": ""
+		}
+	]
+}
