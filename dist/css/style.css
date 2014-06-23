@@ -178,6 +178,9 @@ a:hover {
 	.logo h1 {
 		font-size: 50px;
 	}
+	.btn{
+		margin-top: 5px;
+	}
 }
 
 @media (min-width: 992px) {
