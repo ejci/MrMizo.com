@@ -1,11 +1,15 @@
 html, body {
 	height: 100%;
 	font-size: 20px;
-	font-family: 'Cabin Sketch', cursive;
+	/*font-family: 'Cabin Sketch', cursive;*/
+	font-family: 'Coming Soon', cursive;
 	background-color: #fff;
 	color: #333;
 	color: #fff;
 	text-align: center;
+}
+.cover-heading{
+	font-family: 'Cabin Sketch', cursive;
 }
 a.btn {
 	text-decoration: none;
